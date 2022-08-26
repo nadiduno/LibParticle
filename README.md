@@ -1,7 +1,7 @@
 # LibParticle
 
 Uma aplicação con fondo de particulas de forma poligonal, 
-feita por VicenteGarreau em códig aberto,
+feita por VicenteGarreau em código aberto,
 e aptada por mim para criar a front page da
 Escola de Computação da Universidade Central de Venezuela.
 
